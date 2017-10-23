@@ -25,6 +25,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
+
 gem 'haml', '~> 5.0.0.beta.2'
 #Post-install message from haml:
 # HEADS UP! Haml 4.0 has many improvements, but also has changes that may break
@@ -39,6 +40,7 @@ gem 'haml', '~> 5.0.0.beta.2'
 # http://rubydoc.info/github/haml/haml/file/CHANGELOG.md
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
+gem 'devise', '~> 4.2'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
